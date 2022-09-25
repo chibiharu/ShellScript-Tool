@@ -1,5 +1,7 @@
-## ScriptTitle：Get-arguments
-getoptsでコマンドの引数を取得するsh(ショートオプションとロングオプション対応)
+## Get-arguments
+getoptsでコマンドの引数を取得するシェルスクリプト(bash)
+
+※ショートオプションとロングオプション対応
 
 ## リソース説明
 - README.md

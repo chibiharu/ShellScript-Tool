@@ -1,3 +1,19 @@
-## RepositoryTitle：ShellScript-Tool
+# ShellScript-Tools
+## 説明
+ShellScriptで作成した便利ツールやトピックを管理するリポジトリ
 
-## ディレクトリ説明
+## ディレクトリ(ツール)構成
+
+No.|リソース名|説明
+--|--|--
+1.|README.md|-
+2.|AWS-Get-EC2Resources|指定のタグが登録されてるEC2インスタンスの任意のリソース情報を取得するツールを格納
+3.|Get-arguments|getoptsでコマンドの引数を取得するスクリプトを格納
+4.|Linux-Update-Script|各LinuxOSに対応したアップデートスクリプトを格納
+5.|ddBackup|ddコマンドを利用したLinuxのシステムバックアップツールを格納
+6.|RsyncBackup|Rsyncコマンドを利用したLinuxのシステムバックアップツールを格納
+
+## ライセンス
+当リポジトリで公開しているコードは、一部を除き管理人である chibiharu が作成したものになります。
+
+利用については、特に規定はございませんが、機能面で細かい検証は行っていない為、思わぬバグが存在している可能性がありますので、ご留意頂きますようお願い致します。

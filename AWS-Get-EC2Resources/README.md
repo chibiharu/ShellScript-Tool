@@ -1,4 +1,4 @@
-## TootTitle：AWS-Get-EC2Resources
+## AWS-Get-EC2Resources
 指定のタグが登録されてるEC2インスタンスの任意のリソース情報を取得する
 
 ## リソース説明
